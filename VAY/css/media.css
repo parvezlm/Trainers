@@ -1,0 +1,819 @@
+@media(max-width:1327px) {}
+
+@media(max-width:1199px) {
+    .video_box .appres {
+        margin-top: 27px;
+    }
+
+    .vlogo img {
+        width: 85px !important;
+    }
+
+    .banner_sec h2 {
+        font-size: 65px;
+    }
+
+    .video_box {
+        padding-top: 124px;
+    }
+
+    .img_app {
+        margin-top: 75px;
+    }
+
+    .bluesec1 h3 {
+        font-size: 16px;
+    }
+
+    .bluesec1 p {
+        font-size: 15px;
+        line-height: 18px;
+        margin-top: 12px;
+    }
+
+    .blue_sec {
+        padding: 40px 0px;
+    }
+
+    .bg_content p {
+        font-size: 20px;
+    }
+
+    .bd_sec {
+        padding: 126px 0px;
+    }
+
+    .bg_content h2 {
+        font-size: 44px;
+        margin-bottom: 30px;
+    }
+
+    .intro_sec h2 {
+        font-size: 45px;
+    }
+
+    .intro_sec {
+        padding: 29px 0px;
+    }
+
+    .star_sec h3 {
+        font-size: 18px;
+    }
+
+    .img_appstar {
+        margin: 38px 0px 0px;
+    }
+
+    .mainstar1 h4 {
+        font-size: 20px;
+
+    }
+
+    .star1 img {
+        width: 30px;
+    }
+
+    .person_wdth li:nth-child(3) {
+        font-size: 25.4px;
+    }
+
+    .person_wdth li:nth-child(2) {
+        font-size: 16px;
+        padding: 30px 0px;
+    }
+
+    .logo_wt img {
+        width: 70px;
+    }
+
+    .person_sec {
+        padding: 70px 170px;
+    }
+
+    .logo_sec {
+        padding: 103px 0px;
+    }
+
+    .mth_pln {
+        padding: 25px;
+    }
+
+    .mth_plnlf {
+        margin-left: 40px;
+    }
+
+    .row_month {
+        padding: 10px 40px 91px;
+    }
+
+    .mth_plnrt {
+        margin-left: -40px;
+    }
+
+    .mth_pln h2 {
+        font-size: 30px;
+    }
+
+    .mth_pln h3 {
+        font-size: 22px;
+        margin: 14px 0px;
+    }
+
+    .mth_pln h4 {
+        font-size: 15px;
+    }
+
+    .mth_pln p {
+        font-size: 12px;
+        margin: 15px 0px;
+    }
+
+    .footer1 img.logofooter {
+        width: 100px;
+    }
+
+    .footer2 {
+        margin-top: 36px;
+    }
+
+    .footbtm .whitefooter a {
+        font-size: 17px;
+    }
+
+    .footbtm a {
+        margin-bottom: 5px;
+    }
+
+    .icon_sec ul li {
+        padding: 0px 10px;
+    }
+
+    .icon_sec img {
+        width: 30px;
+    }
+
+    .img_app1 {
+        margin-top: 16px;
+    }
+
+    .img_app1 img.footer_ig1 {
+        width: 100px;
+    }
+
+    .img_app1 img.footer_ig2 {
+        width: 110px;
+    }
+
+    .bg_innercontent p {
+        font-size: 25px;
+    }
+
+    .bg_innercontent h2 {
+        font-size: 70px;
+    }
+
+    .overlay {
+        padding: 158px 20px;
+    }
+
+    .content_section p {
+        font-size: 20px;
+
+    }
+
+}
+
+@media(max-width:991px) {
+    .vlogo img {
+        width: 79px !important;
+    }
+
+    .video_box {
+        padding-top: 73px;
+    }
+
+    .header .navbar-default .navbar-nav > li > a {
+        padding: 9px 16px;
+        padding-top: 10px;
+        font-size: 18.2px;
+    }
+
+    .banner_sec h2 {
+        font-size: 61px;
+        line-height: 66px;
+    }
+
+    .img_app {
+        margin-top: 60px;
+    }
+
+    .bg_content h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .bg_content h4 {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .bg_content p {
+        font-size: 18px;
+    }
+
+    .bd_sec {
+        padding: 100px 0px;
+    }
+
+    .intro_sec h2 {
+        font-size: 35px;
+    }
+
+    .overlay {
+        font-size: 18px;
+        padding: 114px 20px;
+    }
+
+    .img_appstar {
+        margin: 40px 0px 35px;
+    }
+
+    .star1 img {
+        width: 27px;
+    }
+
+    .mainstar1 h4 {
+        font-size: 18px;
+    }
+
+    .star_row {
+        margin-top: 30px;
+    }
+
+    .person_sec {
+        padding: 40px 90px;
+    }
+
+    .logo_sec {
+        padding: 80px 0px;
+    }
+
+    .mth_pln h2 {
+        font-size: 26px;
+    }
+
+    .mth_pln h3 {
+        font-size: 20px;
+        margin: 12px 0px;
+    }
+
+    .mth_pln h4 {
+        font-size: 14px;
+    }
+
+    .mth_pln ul li a {
+        padding: 9px 10px;
+        font-size: 16.2px;
+    }
+
+    .mth_pln p {
+        font-size: 12px;
+        margin: 10px 0px;
+    }
+
+    .mth_plnlf {
+        margin-left: 25px;
+    }
+
+    .mth_plnrt {
+        margin-left: -25px;
+    }
+
+    .row_month {
+        padding: 10px 40px 75px;
+    }
+
+    .bg_innercontent h2 {
+        font-size: 60px;
+    }
+
+    .bg_innercontent p {
+        font-size: 20px;
+    }
+
+    .intro_sec {
+        padding: 0px 0px;
+    }
+
+    .content_section p {
+        font-size: 18px;
+    }
+
+}
+
+@media(max-width:767px) {
+    .person_wdth li:nth-child(3) {
+        font-size: 24px;
+    }
+
+    .vlogo img {
+        width: 70px !important;
+    }
+
+    .fixed_header .navbar-brand > img {
+        width: 80px;
+    }
+
+    .sidenav .navbar-brand img {
+        width: 49%;
+    }
+
+    .fixed_header.navbar-brand > img {
+        width: 80px;
+    }
+
+    .video_box {
+        padding-top: 39px;
+    }
+
+    .banner {
+        margin-top: 65px;
+    }
+
+    .navbar-brand > img {
+        width: 80px;
+    }
+
+    .bg_section_inner {
+        margin-top: 65px;
+    }
+
+    .header {
+        padding-bottom: 0px;
+    }
+
+    .header .hamburger {
+        padding: 0px 10px 10px 0px;
+    }
+
+    .logo_img {
+        min-height: 122px;
+        display: flex;
+        align-items: center;
+
+    }
+
+    .logo_img img {
+        width: 95px;
+        margin: 0 auto;
+    }
+
+    .logo_img img.logoimggg {
+        width: 162px;
+        margin: 0 auto;
+    }
+
+    .bg_section {
+        background-position: center center;
+    }
+
+    .header .hamburger {
+        display: block;
+    }
+
+    .banner_sec h2 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .img_app {
+        margin-top: 19px;
+    }
+
+    .bluesec1 {
+        margin-bottom: 20px;
+    }
+
+    .bluesec1:nth-child(3) {
+        margin-bottom: 0px;
+    }
+
+    .bd_sec {
+        padding: 60px 0px 0px;
+    }
+
+    .bg_content h2 span {
+        display: inline;
+    }
+
+    .bg_content h2 {
+        font-size: 35px;
+        margin-bottom: 17px;
+    }
+
+    .bg_content p {
+        font-size: 16px;
+    }
+
+    .bg1img img {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .intro_img img {
+        margin: 0 auto;
+    }
+
+    .intro_img {
+        width: 100%;
+    }
+
+    .overlay {
+        top: 0;
+        padding: 44px 20px;
+    }
+
+    .img_appstar {
+        margin: 30px 0px 30px;
+    }
+
+    .stwth {
+        width: 50%;
+        float: left;
+        margin-bottom: 15px;
+    }
+
+    .personal_t {
+        background-position: center center;
+    }
+
+    .person_sec {
+        padding: 20px 0px;
+    }
+
+    .row_img .col-sm-4 {
+        width: 33.33%;
+        float: left;
+    }
+
+    .mth_plnlf {
+        margin-left: 0;
+    }
+
+    .mth_plnrt {
+        margin-left: 0px;
+    }
+
+    .mth_pln {
+        margin-bottom: 20px;
+    }
+
+    .mth_pln h2 span {
+        display: inline;
+    }
+
+    .row_month {
+        padding: 10px 67px 52px;
+    }
+
+    .footer2 .col-sm-4 {
+        width: 33.33%;
+        float: left;
+    }
+
+    .footer2 {
+        margin-top: 20px;
+    }
+
+    .footbtm .whitefooter a {
+        font-size: 15px;
+    }
+
+    .footbtm a {
+        margin-bottom: 3px;
+        font-size: 14px;
+    }
+
+    .logo_sec {
+        display: inline-block;
+    }
+
+    .logo_sec .col-sm-3 {
+        width: 50%;
+        float: left;
+    }
+
+    .bd_sec1 {
+        padding: 90px 0px 90px;
+    }
+}
+
+@media(max-width:560px) {
+    .bg_content h2 span {
+        display: block;
+    }
+
+    .contentres .appres {
+        text-align: center;
+    }
+
+    .contentres {
+        margin-bottom: 40px;
+        display: block;
+    }
+
+    .conres {
+        display: none;
+    }
+
+    .blueres {
+        display: block;
+    }
+
+    .blueres2 {
+        display: none;
+    }
+
+    .video_box {
+        padding-top: 88px;
+    }
+
+    .logo_sec {
+        padding: 60px 0px;
+    }
+
+    .banner_sec h2 {
+        font-size: 45px;
+        line-height: 53px;
+    }
+
+    .blue_sec {
+        padding: 25px 0px;
+    }
+
+    .bd_sec {
+        padding: 30px 0px 0px;
+    }
+
+    .bg_content h2 {
+        line-height: 42px;
+        text-align: center;
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+
+    .bg_content h4 {
+        text-align: center;
+        font-size: 14px;
+        margin-bottom: 13px;
+    }
+
+    .bg_content p {
+        font-size: 17px;
+        text-align: center;
+        padding: 0px 27px;
+    }
+
+    .intro_sec h2 {
+        font-size: 30px;
+    }
+
+    .row_img .col-sm-4 {
+        width: 33.33%;
+        float: left;
+        margin-bottom: 10px;
+    }
+
+    .overlay {
+        top: 0;
+        padding: 21px 20px;
+    }
+
+    .intro_img p {
+        font-size: 17px;
+    }
+
+    .intro_sec {
+        padding: 20px 0px;
+    }
+
+    .star_sec h3 {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+
+    .stwth {
+        margin-bottom: 20px;
+    }
+
+    .person_wdth li:nth-child(3) {
+        font-size: 17.4px;
+    }
+
+    .person_wdth li:nth-child(2) {
+        font-size: 12px;
+        padding: 30px 0px;
+    }
+
+    .row_month {
+        padding: 10px 29px 52px;
+    }
+
+    .footbtm {
+        padding: 0px 10px;
+    }
+
+    .footer1 img.logofooter {
+        width: 80px;
+    }
+
+    .footer1 p span {
+        display: inline;
+    }
+
+    .footer1 p {
+        font-size: 12px;
+        margin-top: 13px;
+    }
+
+    .footbtm .whitefooter a {
+        font-size: 14px;
+    }
+
+    .footbtm a {
+        margin-bottom: 2px;
+        font-size: 12px;
+    }
+
+    .footer_sec {
+        padding: 0px 0px 16px;
+    }
+
+    .bg_innercontent h2 {
+        font-size: 45px;
+    }
+
+    .bg_innercontent p {
+        font-size: 16px;
+    }
+
+    .bd_sec1 {
+        padding: 80px 0px 80px;
+    }
+
+    .content_section p {
+        font-size: 16px;
+    }
+
+    .content_sec {
+        padding: 10px 0px 300px;
+    }
+
+    .img_app img.appbn1 {
+        width: 100px;
+    }
+
+    .img_app img.appbn2 {
+        width: 110px;
+    }
+
+    .img_app1 img.appbn1 {
+        width: 100px;
+    }
+
+    .img_app1 img.appbn2 {
+        width: 110px;
+    }
+
+    .banner_sec video {
+        width: 100%;
+        height: 290px;
+        object-fit: cover;
+    }
+
+}
+
+@media(max-width:414px) {
+    .intro_img p {
+        font-size: 14px;
+    }
+
+    .banner_sec h2 {
+
+        font-size: 40px;
+        line-height: 46px;
+
+    }
+
+    .bg_content p {
+        font-size: 15px;
+        text-align: center;
+        padding: 0px 20px;
+    }
+
+    .overlay {
+        top: 0;
+        padding: 11px 10px;
+    }
+
+    .video_box {
+        padding-top: 100px;
+    }
+
+    .img_app img.appbn1 {
+        width: 100px;
+    }
+
+    .img_app img.appbn2 {
+        width: 110px;
+    }
+
+    .bluesec1 h3 {
+        font-size: 15px;
+    }
+
+    .bluesec1 p {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 3px;
+    }
+
+    .blue_sec {
+        padding: 15px 0px;
+    }
+
+    .bg_content h2 {
+        font-size: 30px;
+        margin-bottom: 9px;
+        line-height: 33px;
+    }
+
+    .img_app1 img.appbn1 {
+        width: 100px;
+    }
+
+    .img_app1 img.appbn2 {
+        width: 110px;
+    }
+
+    .intro_sec h2 span {
+        display: block;
+    }
+
+    .intro_sec h2 {
+        font-size: 22px;
+    }
+
+    .row_img {
+        margin-top: 15px;
+    }
+
+    .stwth {
+        width: 100%;
+    }
+
+    .person_wdth li:nth-child(1) {
+        font-size: 28.4px;
+    }
+
+    .pertrain_wdth img {
+        width: 35px;
+    }
+
+    .logo_wdth img {
+        width: 35px;
+    }
+
+    .logo_sec {
+        padding: 50px 0px;
+    }
+
+    .footer2 .col-sm-4 {
+        width: 50%;
+        float: left;
+    }
+
+    .intro_sec1 {
+        padding: 0px 0px;
+    }
+
+    .bg_innercontent h2 {
+        font-size: 35px;
+    }
+
+    .bg_innercontent p {
+        font-size: 14px;
+    }
+
+    .header {
+        padding-bottom: 0;
+    }
+
+    .navbar-brand > img {
+        width: 75px;
+    }
+
+    .header .hamburger {
+        padding: 0px 10px 10px 0px;
+    }
+}
